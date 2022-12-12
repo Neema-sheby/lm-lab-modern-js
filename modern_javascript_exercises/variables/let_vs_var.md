@@ -1,4 +1,4 @@
-# Before ES6 - var was king! 👑
+.0# Before ES6 - var was king! 👑
 
 ### TLDR; ⚠️ DON'T USE var ⚠️
 

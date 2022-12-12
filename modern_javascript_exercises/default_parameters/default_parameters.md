@@ -1,4 +1,4 @@
-# Default Parameters
+00# Default Parameters
 
 `sayHello()` is using a Ternary Operator to check if person is defined.
 
