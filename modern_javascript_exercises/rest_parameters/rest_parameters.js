@@ -5,5 +5,6 @@ export function add(...nums) {
   for (const num of nums) {
     total += num;
   }
+  console.log(total);
   return total;
 }
